@@ -4,6 +4,11 @@
 	border: 1px solid red;
 	padding: 10px;
 }
+#flyWin{
+	position: fixed;
+	left: 90%;
+	margin: 0.625rem;
+}
 h3{
 	color:royalblue;
 }
